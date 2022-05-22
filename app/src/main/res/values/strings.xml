@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">beaconTransmisor</string>
+    <string name="title_uuid">DNI</string>
+    <string name="title_major_value">Major Value</string>
+    <string name="title_minor_value">Minor Value</string>
+    <string name="title_beacon_format">Beacon Format</string>
+    <string name="hint_uuid">43456736</string>
+    <string name="hint_major_value">8</string>
+    <string name="_hint_minor_value">2</string>
+    <string name="start_advertising">Iniciar Ruta</string>
+    <string name="apply">Aplicar cambios</string>
+    <string name="data">Descargar datos</string>
+    <string name="descarga">Tus tiempos</string>
+
+</resources>
